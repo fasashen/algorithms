@@ -2,7 +2,7 @@
 
 ## Блок 1. Базовые задачи:
 - [ ] https://leetcode.com/problems/reorder-list/
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
+- [x] https://leetcode.com/problems/linked-list-cycle-ii/
 - [x] https://leetcode.com/problems/linked-list-cycle/
 - [ ] https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
