@@ -6,15 +6,12 @@ https://leetcode.com/problems/linked-list-cycle/submissions/
 
 ```python
 class Solution:
-    p = None
-    q = None
-    
     def hasCycle(self, head: ListNode) -> bool:
-        self.p, self.q = head, head
-        while self.p and self.p.next and self.q.next and self.q.next.next:
-            self.p = self.p.next
-            self.q = self.q.next.next
-            if self.p is self.q:
+        p, q = head, head
+        while p and p.next and q.next and q.next.next:
+            p = p.next
+            q = q.next.next
+            if p is q:
                 return True
         return False
 ```
