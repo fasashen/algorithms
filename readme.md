@@ -10,7 +10,7 @@
 - [ ] https://leetcode.com/problems/delete-node-in-a-linked-list/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
 - [x] https://leetcode.com/problems/reverse-linked-list/
-- [ ] https://leetcode.com/problems/remove-linked-list-elements/
+- [x] https://leetcode.com/problems/remove-linked-list-elements/
 - [ ] https://leetcode.com/problems/intersection-of-two-linked-lists/
 - [ ] https://leetcode.com/problems/sort-list/ - тут Merge Sort
 
