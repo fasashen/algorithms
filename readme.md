@@ -4,7 +4,7 @@
 - [ ] https://leetcode.com/problems/reorder-list/
 - [ ] https://leetcode.com/problems/linked-list-cycle-ii/
 - [ ] https://leetcode.com/problems/linked-list-cycle/
-- [ ] https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [ ] https://leetcode.com/problems/middle-of-the-linked-list/
 - [ ] https://leetcode.com/problems/delete-node-in-a-linked-list/
