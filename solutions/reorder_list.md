@@ -7,7 +7,7 @@ class Solution:
     def reorderList(self, head: ListNode) -> None:
         if not head:
             return
-        reversed_list_head = self.split_and_reverse_last_half(head)
+        reversed_list_head = self.splitReverseHalf(head)
         while reversed_list_head:
             current_next = head.next
             current_reversed_next = reversed_list_head.next
@@ -16,18 +16,14 @@ class Solution:
             reversed_list_head = current_reversed_next
             head = current_next
 
-    def get_list_lenght(self, head):
-        len = 0
-        while head:
-            len += 1
-            head = head.next
-        return len
-
-    def split_and_reverse_last_half(self, head):
-        for _ in range(self.get_list_lenght(head) // 2):
-            head = head.next
-        reversed_list_head = head.next
-        head.next = None
+    def splitReverseHalf(self, head):
+        p = head
+        q = head
+        while q and q.next:
+            q = q.next.next
+            p = p.next
+        reversed_list_head = p.next
+        p.next = None
         reversed_list_head = self.reverseList(reversed_list_head)
         return reversed_list_head
 
