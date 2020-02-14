@@ -13,7 +13,7 @@ class Solution:
             p = p.next
             q = q.next.next
             pos = pos.next if loop_found else pos
-            loop_found = True if p is q else False
+            loop_found = True if loop_found or p is q else False
             if p is pos:
                 return pos
 ```
