@@ -1,10 +1,11 @@
 # Дрочево задач
 
 ## Блок 1. Базовые задачи:
+
 - [x] https://leetcode.com/problems/reorder-list/
 - [x] https://leetcode.com/problems/linked-list-cycle-ii/
 - [x] https://leetcode.com/problems/linked-list-cycle/
-- [ ] https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] https://leetcode.com/problems/merge-two-sorted-lists/
 - [x] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [x] https://leetcode.com/problems/middle-of-the-linked-list/
 - [ ] https://leetcode.com/problems/delete-node-in-a-linked-list/
