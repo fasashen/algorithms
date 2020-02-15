@@ -1,7 +1,7 @@
 # Дрочево задач
 
 ## Блок 1. Базовые задачи:
-- [ ] https://leetcode.com/problems/reorder-list/
+- [x] https://leetcode.com/problems/reorder-list/
 - [x] https://leetcode.com/problems/linked-list-cycle-ii/
 - [x] https://leetcode.com/problems/linked-list-cycle/
 - [ ] https://leetcode.com/problems/merge-two-sorted-lists/
