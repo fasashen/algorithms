@@ -7,28 +7,19 @@ class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
         if not head:
             return
-        l = self.get_list_length(head)
-        return self.remove_nth(head, l - n + 1)
-    
-    def get_list_length(self, head):
-        c = 0
-        while head:
-            c += 1
-            head = head.next
-        return c
-    
-    def remove_nth(self, head, n):
-        c = 0
-        prev = None
-        node = head
-        while node:
-            c += 1
-            if n == c:
-                if not prev:
-                    return node.next
-                prev.next = node.next
-                break
-            prev = node
-            node = node.next
+        p = None
+        q = head
+        offset = 0
+        while q and q.next:
+            q = q.next
+            offset += 1
+            if offset >= n:
+                if not p:
+                    p = head
+                else:
+                    p = p.next
+        if not p:
+            return head.next
+        p.next = p.next.next
         return head
 ```
