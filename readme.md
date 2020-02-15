@@ -8,7 +8,7 @@
 - [x] https://leetcode.com/problems/merge-two-sorted-lists/
 - [x] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [x] https://leetcode.com/problems/middle-of-the-linked-list/
-- [ ] https://leetcode.com/problems/delete-node-in-a-linked-list/
+- [x] https://leetcode.com/problems/delete-node-in-a-linked-list/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
 - [x] https://leetcode.com/problems/reverse-linked-list/
 - [x] https://leetcode.com/problems/remove-linked-list-elements/
