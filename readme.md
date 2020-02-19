@@ -2,18 +2,18 @@
 
 ## Блок 1. Базовые задачи:
 
-- [x] https://leetcode.com/problems/reorder-list/
-- [x] https://leetcode.com/problems/linked-list-cycle-ii/
-- [x] https://leetcode.com/problems/linked-list-cycle/
-- [x] https://leetcode.com/problems/merge-two-sorted-lists/
-- [x] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [x] https://leetcode.com/problems/middle-of-the-linked-list/
-- [x] https://leetcode.com/problems/delete-node-in-a-linked-list/
+- [x] https://leetcode.com/problems/reorder-list/ ([решение](../blob/master/solutions/reorder-list.md))
+- [x] https://leetcode.com/problems/linked-list-cycle-ii/ ([решение](../blob/master/solutions/linked-list-cycle-ii.md))
+- [x] https://leetcode.com/problems/linked-list-cycle/ ([решение](../blob/master/solutions/linked-list-cycle.md))
+- [x] https://leetcode.com/problems/merge-two-sorted-lists/ ([решение](../blob/master/solutions/merge-two-sorted-lists.md))
+- [x] https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ([решение](../blob/master/solutions/remove-nth-node-from-end-of-list.md))
+- [x] https://leetcode.com/problems/middle-of-the-linked-list/ ([решение](../blob/master/solutions/middle-of-the-linked-list.md))
+- [x] https://leetcode.com/problems/delete-node-in-a-linked-list/ ([решение](../blob/master/solutions/delete-node-in-a-linked-list.md))
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
-- [x] https://leetcode.com/problems/reverse-linked-list/
-- [x] https://leetcode.com/problems/remove-linked-list-elements/
-- [x] https://leetcode.com/problems/intersection-of-two-linked-lists/
-- [ ] https://leetcode.com/problems/sort-list/ - тут Merge Sort
+- [x] https://leetcode.com/problems/reverse-linked-list/ ([решение](../blob/master/solutions/reverse-linked-list.md))
+- [x] https://leetcode.com/problems/remove-linked-list-elements/ ([решение](../blob/master/solutions/remove-linked-list-elements.md))
+- [x] https://leetcode.com/problems/intersection-of-two-linked-lists/ ([решение](../blob/master/solutions/intersection-of-two-linked-lists.md))
+- [ ] https://leetcode.com/problems/sort-list/ - Merge Sort
 
 ## Блок 2
 ### Математика
