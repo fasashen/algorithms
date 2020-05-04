@@ -13,7 +13,7 @@
 - [x] https://leetcode.com/problems/reverse-linked-list/ ([решение](solutions/reverse-linked-list.md))
 - [x] https://leetcode.com/problems/remove-linked-list-elements/ ([решение](solutions/remove-linked-list-elements.md))
 - [x] https://leetcode.com/problems/intersection-of-two-linked-lists/ ([решение](solutions/intersection-of-two-linked-lists.md))
-- [ ] https://leetcode.com/problems/sort-list/ - Merge Sort
+- [x] https://leetcode.com/problems/sort-list/ ([решение](solutions/sort-list.md))
 
 ## Блок 2
 ### Математика
