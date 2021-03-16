@@ -17,8 +17,8 @@
 
 ## Блок 2
 ### Математика
-- [ ] https://leetcode.com/problems/fibonacci-number/ (3 решения: рекурсивно, рекурсивно с мемоизацией, итеративно)
-- [ ] https://leetcode.com/problems/course-schedule/
+- [x] https://leetcode.com/problems/fibonacci-number/ ([решение](solutions/fibonacci-number.md))
+- [x] https://leetcode.com/problems/course-schedule/ ([решение](solutions/course-schedule.md))
 - [ ] https://leetcode.com/problems/course-schedule-ii/
 - [ ] Вот 3 ссылки, чтобы понять условие задачи. Название задачи - Alien Dictionary.
     (https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/, https://medium.com/@dimko1/alien-dictionary-6cf2da24bf3c, https://zhuhan0.blogspot.com/2017/06/leetcode-269-alien-dictionary.html)
